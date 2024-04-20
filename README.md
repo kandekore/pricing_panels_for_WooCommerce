@@ -31,15 +31,15 @@ The plugin will automatically generate the pricing panels for products in the se
 This plugin is intended for use with WooCommerce and assumes that WooCommerce is installed and activated on your WordPress site.
 
 
-##Shortcode Attributes
+## Shortcode Attributes
 Currently, the shortcode does not support any attributes, and it only displays products based on the category selected in the page meta box.
 
 ##Styling
 The plugin provides basic styles which can be customized. You can override the default CSS in your theme or in additional CSS sections of the WordPress customizer.
 
-##Developer Information
+## Developer Information
 Author: D Kandekore
 Version: 1.0
 
-##License
+## License
 This plugin is open-source and can be freely used and modified. No explicit license is applied.
